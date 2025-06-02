@@ -1,9 +1,0 @@
-﻿  merge sort.cpp
-C:\Users\Harry Fisher\Desktop\final merge sort\merge sort.cpp(100,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Harry Fisher\Desktop\final merge sort\merge sort.cpp(101,66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Harry Fisher\Desktop\final merge sort\merge sort.cpp(132,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Harry Fisher\Desktop\final merge sort\merge sort.cpp(139,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Harry Fisher\Desktop\final merge sort\merge sort.cpp(223,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Harry Fisher\Desktop\final merge sort\merge sort.cpp(251,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Harry Fisher\Desktop\final merge sort\merge sort.cpp(274,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  final merge sort.vcxproj -> C:\Users\Harry Fisher\Desktop\final merge sort\x64\Debug\final merge sort.exe
